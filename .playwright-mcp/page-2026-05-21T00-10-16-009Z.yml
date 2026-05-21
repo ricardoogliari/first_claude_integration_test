@@ -1,0 +1,394 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img [ref=e3]:
+      - generic "adiclub-logo"
+      - generic "alert-error"
+      - generic "alert-info"
+      - generic "alert-success"
+      - generic "alert-warning"
+      - generic "broken-image"
+      - generic "checkmark"
+      - generic "contact-email"
+      - generic "contact-phone"
+      - generic "customization"
+      - generic "forbidden"
+      - generic "locked"
+      - generic "logo"
+      - generic "personalisation-flag"
+      - generic "personalization"
+      - generic "rating-active"
+      - generic "rating-inactive"
+      - generic "size-guide"
+      - generic "tooltip"
+      - generic "usp-checkmark"
+      - generic "usp-delivery-cash"
+      - generic "usp-delivery-delay"
+      - generic "usp-delivery-evening"
+      - generic "usp-delivery-same-day"
+      - generic "usp-delivery-store"
+      - generic "usp-delivery"
+      - generic "usp-exchange"
+      - generic "usp-free-returns"
+      - generic "usp-gift-card"
+      - generic "usp-klarna"
+      - generic "usp-sale"
+      - generic "arrow-back"
+      - generic "arrow-down"
+      - generic "arrow-left-long"
+      - generic "arrow-left"
+      - generic "arrow-right-long"
+      - generic "arrow-right"
+      - generic "arrow-up"
+      - generic "bag-active"
+      - generic "bag-inactive"
+      - generic "calendar-active"
+      - generic "calendar-inactive"
+      - generic "chat"
+      - generic "checkbox-checkmark"
+      - generic "checkmark-full"
+      - generic "clipboard"
+      - generic "close"
+      - generic "cross-small"
+      - generic "download"
+      - generic "dropdown"
+      - generic "edit"
+      - generic "external-link"
+      - generic "fullscreen"
+      - generic "hamburger"
+      - generic "hd-filled"
+      - generic "hd-outline"
+      - generic "hide-active"
+      - generic "hide-inactive"
+      - generic "locate-target"
+      - generic "lock"
+      - generic "minus"
+      - generic "notification-active"
+      - generic "notification-inactive"
+      - generic "pause-outline"
+      - generic "pin-small"
+      - generic "pin"
+      - generic "play-filled"
+      - generic "play-outline"
+      - generic "plus"
+      - generic "profile"
+      - generic "reload"
+      - generic "sd-filled"
+      - generic "sd-outline"
+      - generic "search"
+      - generic "share"
+      - generic "sound-off-filled"
+      - generic "sound-off-outline"
+      - generic "sound-on-filled"
+      - generic "sound-on-outline"
+      - generic "subtitles-cc-filled"
+      - generic "subtitles-cc-outline"
+      - generic "subtitles-filled"
+      - generic "subtitles-outline"
+      - generic "wishlist-active"
+      - generic "wishlist-inactive"
+      - generic "zoom-out"
+      - generic "zoom"
+      - generic "apple"
+      - generic "facebook"
+      - generic "google"
+      - generic "instagram-filled"
+      - generic "instagram"
+      - generic "messenger"
+      - generic "pinterest"
+      - generic "runtastic"
+      - generic "tiktok-default"
+      - generic "tiktok"
+      - generic "twitter"
+      - generic "vk"
+      - generic "whatsapp"
+      - generic "yahoo"
+      - generic "youtube"
+    - generic [ref=e4]:
+      - banner [ref=e7]:
+        - button "Veja outros benefícios, ofertas da adidas e muito mais." [ref=e8] [cursor=pointer]
+        - generic [ref=e10]:
+          - navigation "Informações do cliente." [ref=e11]:
+            - list [ref=e12]:
+              - listitem [ref=e13]:
+                - link "localizador de lojas" [ref=e14] [cursor=pointer]:
+                  - /url: /stores
+              - listitem [ref=e15]:
+                - link "blog" [ref=e16] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e17]:
+                - link "ajuda" [ref=e18] [cursor=pointer]:
+                  - /url: /ajuda
+              - listitem [ref=e19]:
+                - link "histórico de pedidos" [ref=e20] [cursor=pointer]:
+                  - /url: /order-tracker
+              - listitem [ref=e21]:
+                - button "Entre para o adiClub." [ref=e22] [cursor=pointer]: entre para o clube
+          - generic [ref=e23]:
+            - link "página inicial" [ref=e24] [cursor=pointer]:
+              - /url: /
+            - list "Main Navigation" [ref=e26]:
+              - listitem [ref=e27]: CALÇADOS
+              - listitem [ref=e28]: MULHER
+              - listitem [ref=e29]: HOMEM
+              - listitem [ref=e30]: INFANTIL
+              - listitem [ref=e31]: ESPORTES
+              - listitem [ref=e32]: ATÉ 40% OFF️
+            - generic [ref=e33]:
+              - generic [ref=e34]:
+                - textbox "Procurar" [ref=e35]
+                - img [ref=e37] [cursor=pointer]
+              - button "Cadastre-se ou entre no adiClub" [ref=e39] [cursor=pointer]:
+                - img [ref=e40]
+                - generic [ref=e43]: "1"
+              - link "Ir para lista de desejos" [ref=e44] [cursor=pointer]:
+                - /url: /wishlists
+                - img [ref=e45]
+              - link "Ir para carrinho" [ref=e47] [cursor=pointer]:
+                - /url: /cart
+                - img [ref=e48]
+                - generic [ref=e51]: "0"
+      - generic [ref=e52]:
+        - heading "Página não encontrada" [level=1] [ref=e53]
+        - generic [ref=e55]:
+          - img [ref=e56]
+          - textbox "Procurar" [ref=e58]
+        - paragraph [ref=e59]:
+          - text: Ou retrocedeà
+          - link "página inicial" [ref=e61] [cursor=pointer]:
+            - /url: /
+          - text: e recomeça.
+      - contentinfo [ref=e67]:
+        - generic [ref=e68]:
+          - heading "ENTRE PARA O ADICLUB E GANHE 500 PONTOS RESGATÁVEIS" [level=2] [ref=e69]
+          - button "CADASTRE-SE GRATUITAMENTE" [ref=e71] [cursor=pointer]:
+            - generic [ref=e72]: CADASTRE-SE GRATUITAMENTE
+            - img [ref=e73]
+        - list [ref=e76]:
+          - listitem [ref=e77]:
+            - heading "PRODUTOS" [level=5] [ref=e78]
+            - list [ref=e79]:
+              - listitem [ref=e80]:
+                - link "Mulher" [ref=e81] [cursor=pointer]:
+                  - /url: /mulher
+              - listitem [ref=e82]:
+                - link "Homem" [ref=e83] [cursor=pointer]:
+                  - /url: /homem
+              - listitem [ref=e84]:
+                - link "Calçados" [ref=e85] [cursor=pointer]:
+                  - /url: /calcados
+              - listitem [ref=e86]:
+                - link "Tênis" [ref=e87] [cursor=pointer]:
+                  - /url: /tenis
+              - listitem [ref=e88]:
+                - link "Roupas" [ref=e89] [cursor=pointer]:
+                  - /url: /roupas
+              - listitem [ref=e90]:
+                - link "Acessórios" [ref=e91] [cursor=pointer]:
+                  - /url: /acessorios
+              - listitem [ref=e92]:
+                - link "Chuteiras" [ref=e93] [cursor=pointer]:
+                  - /url: /chuteiras
+              - listitem [ref=e94]:
+                - link "Quebra Vento" [ref=e95] [cursor=pointer]:
+                  - /url: /blusao_quebra_vento-jaquetas
+              - listitem [ref=e96]
+              - listitem [ref=e98]:
+                - link "Novidades" [ref=e99] [cursor=pointer]:
+                  - /url: /novidades
+              - listitem [ref=e100]:
+                - link "Maratona do Rio" [ref=e101] [cursor=pointer]:
+                  - /url: /maratona_do_rio
+              - listitem [ref=e102]:
+                - link "OUTLET" [ref=e103] [cursor=pointer]:
+                  - /url: /outlet
+              - listitem [ref=e104]:
+                - link "ATÉ 70% OFF" [ref=e105] [cursor=pointer]:
+                  - /url: /black_friday
+              - listitem [ref=e106]:
+                - link "Cyber Monday" [ref=e107] [cursor=pointer]:
+                  - /url: /cyber_monday
+              - listitem [ref=e108]
+              - listitem [ref=e110]:
+                - link "adiClub" [ref=e111] [cursor=pointer]:
+                  - /url: /adiclub
+              - listitem [ref=e112]:
+                - link "adidas app" [ref=e113] [cursor=pointer]:
+                  - /url: /mobileapps
+              - listitem [ref=e114]:
+                - link "adidas Runners" [ref=e115] [cursor=pointer]:
+                  - /url: /adidasrunners/
+          - listitem [ref=e116]:
+            - heading "ESPORTES" [level=5] [ref=e117]
+            - list [ref=e118]:
+              - listitem [ref=e119]:
+                - link "Futebol" [ref=e120] [cursor=pointer]:
+                  - /url: /futebol?grid=true
+              - listitem [ref=e121]:
+                - link "Internacional" [ref=e122] [cursor=pointer]:
+                  - /url: /internacional
+              - listitem [ref=e123]:
+                - link "Flamengo" [ref=e124] [cursor=pointer]:
+                  - /url: /flamengo
+              - listitem [ref=e125]:
+                - link "Atlético Mineiro" [ref=e126] [cursor=pointer]:
+                  - /url: /atletico_mineiro
+              - listitem [ref=e127]:
+                - link "Federação" [ref=e128] [cursor=pointer]:
+                  - /url: /selecoes
+              - listitem [ref=e129]:
+                - link "Cruzeiro" [ref=e130] [cursor=pointer]:
+                  - /url: /cruzeiro
+              - listitem [ref=e131]:
+                - link "Corrida" [ref=e132] [cursor=pointer]:
+                  - /url: /running?grid=true
+              - listitem [ref=e133]:
+                - link "Basquete" [ref=e134] [cursor=pointer]:
+                  - /url: /basquete
+              - listitem [ref=e135]:
+                - link "Training" [ref=e136] [cursor=pointer]:
+                  - /url: /training?grid=true
+            - heading "Coleções" [level=5] [ref=e137]
+            - list [ref=e138]:
+              - listitem [ref=e139]:
+                - link "Confirmed" [ref=e140] [cursor=pointer]:
+                  - /url: /confirmed
+              - listitem [ref=e141]:
+                - link "Ultraboost" [ref=e142] [cursor=pointer]:
+                  - /url: /ultraboost
+              - listitem [ref=e143]:
+                - link "Originals" [ref=e144] [cursor=pointer]:
+                  - /url: /originals?grid=true
+              - listitem [ref=e145]:
+                - link "Slip On" [ref=e146] [cursor=pointer]:
+                  - /url: /slip_on
+              - listitem [ref=e147]:
+                - link "Stan Smith" [ref=e148] [cursor=pointer]:
+                  - /url: /stan_smith
+              - listitem [ref=e149]:
+                - link "adicolor" [ref=e150] [cursor=pointer]:
+                  - /url: /adicolor
+              - listitem [ref=e151]:
+                - link "Superstar" [ref=e152] [cursor=pointer]:
+                  - /url: /superstar
+              - listitem [ref=e153]:
+                - link "adidas x Farm" [ref=e154] [cursor=pointer]:
+                  - /url: /farm
+          - listitem [ref=e155]:
+            - heading "SUPORTE" [level=5] [ref=e156]
+            - list [ref=e157]:
+              - listitem [ref=e158]:
+                - link "Podemos Ajudar?" [ref=e159] [cursor=pointer]:
+                  - /url: /ajuda
+              - listitem [ref=e160]:
+                - link "Atendimento ao Cliente" [ref=e161] [cursor=pointer]:
+                  - /url: /ajuda/atendimento-ao-cliente
+              - listitem [ref=e162]:
+                - link "Dúvidas Frequentes" [ref=e163] [cursor=pointer]:
+                  - /url: /ajuda
+              - listitem [ref=e164]:
+                - link "Como Comprar" [ref=e165] [cursor=pointer]:
+                  - /url: /ajuda?hcid=ORDERING
+              - listitem [ref=e166]:
+                - link "Entregas e Frete" [ref=e167] [cursor=pointer]:
+                  - /url: /ajuda?hcid=DELIVERY
+              - listitem [ref=e168]:
+                - link "Opções de Pagamento" [ref=e169] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e170]:
+                - link "Troca e Devolução" [ref=e171] [cursor=pointer]:
+                  - /url: /ajuda?hcid=RETURNS_AND_REFUNDS
+              - listitem [ref=e172]:
+                - link "O Que é o adiClub" [ref=e173] [cursor=pointer]:
+                  - /url: /ajuda/adidasclub/o-que-e-o-adiclub
+              - listitem [ref=e174]:
+                - link "Mapa do Site" [ref=e175] [cursor=pointer]:
+                  - /url: /glass/sitemaps/adidas/BR/pt/html-sitemap/index.html
+          - listitem [ref=e176]:
+            - heading "INFORMAÇÃO CORPORATIVA" [level=5] [ref=e177]
+            - list [ref=e178]:
+              - listitem [ref=e179]:
+                - link "Sobre Nós" [ref=e180] [cursor=pointer]:
+                  - /url: /ajuda/informacao-da-empresa/sobre-adidas
+              - listitem [ref=e181]:
+                - link "Imprensa" [ref=e182] [cursor=pointer]:
+                  - /url: https://news.adidas.com/
+            - heading "LOJAS" [level=5] [ref=e183]
+            - list [ref=e184]:
+              - listitem [ref=e185]:
+                - link "Localizador de Loja" [ref=e186] [cursor=pointer]:
+                  - /url: /stores
+            - heading "Nosso Mundo" [level=5] [ref=e187]
+            - list [ref=e188]:
+              - listitem [ref=e189]:
+                - link "Impacto" [ref=e190] [cursor=pointer]:
+                  - /url: /go/campaign/impact
+              - listitem [ref=e191]:
+                - link "Pessoas" [ref=e192] [cursor=pointer]:
+                  - /url: /go/campaign/impact/people
+              - listitem [ref=e193]:
+                - link "Planeta" [ref=e194] [cursor=pointer]:
+                  - /url: /go/campaign/impact/planet
+          - listitem [ref=e195]:
+            - heading "SIGA-NOS" [level=5] [ref=e196]
+            - list [ref=e197]:
+              - listitem [ref=e198]:
+                - link "Facebook - adidas" [ref=e199] [cursor=pointer]:
+                  - /url: https://www.facebook.com/adidas
+                  - img [ref=e200]
+              - listitem [ref=e202]:
+                - link "Instagram - adidas" [ref=e203] [cursor=pointer]:
+                  - /url: https://www.instagram.com/adidasbrasil/
+                  - img [ref=e204]
+              - listitem [ref=e206]:
+                - link "X - adidas" [ref=e207] [cursor=pointer]:
+                  - /url: https://x.com/adidas
+                  - img [ref=e208]
+              - listitem [ref=e210]:
+                - link "TikTok - adidas" [ref=e211] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@adidas?lang=en
+                  - img [ref=e212]
+              - listitem [ref=e214]:
+                - link "Youtube - adidas" [ref=e215] [cursor=pointer]:
+                  - /url: https://www.youtube.com/c/adidas
+                  - img [ref=e216]
+              - listitem [ref=e219]
+              - listitem [ref=e221]:
+                - link [ref=e222] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e223]:
+                - link [ref=e224] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e225]:
+                - link [ref=e226] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e227]:
+                - link [ref=e228] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e229]:
+                - link [ref=e230] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e231]:
+                - link [ref=e232] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+        - separator [ref=e233]
+        - list [ref=e234]:
+          - listitem [ref=e235]:
+            - link "Termos e Condições de Navegação" [ref=e236] [cursor=pointer]:
+              - /url: /ajuda/privacidade-e-termos/termos-condicoes-de-navegacao
+          - listitem [ref=e237]:
+            - link "Dúvidas Frequentes" [ref=e238] [cursor=pointer]:
+              - /url: /ajuda?hcid=TERMS_AND_CONDITIONS
+          - listitem [ref=e239]:
+            - link "Selecione o Pais" [ref=e240] [cursor=pointer]:
+              - /url: /go/campaign/location-selector
+          - listitem [ref=e241]:
+            - link "Politica de Privacidade" [ref=e242] [cursor=pointer]:
+              - /url: /ajuda/privacidade-e-termos/politica-de-privacidade
+          - listitem [ref=e243]:
+            - link "Termos e Condições adiClub" [ref=e244] [cursor=pointer]:
+              - /url: /ajuda/adidasclub/termos-e-condicoes-adiclub
+          - listitem [ref=e245]:
+            - 'link "Termos #YESadidas" [ref=e246] [cursor=pointer]':
+              - /url: /ajuda/privacidade-e-termos/terms_and_conditions_yes_adidas
+        - generic [ref=e247]: "adidas do Brasil LTDA - CNPJ/MF nº 42.274.696/0096-55 - Inscrição Estadual 010.361.550.901 Endereço: Estrada Municipal Luiz Lopes Neto, nº 756, Campus DHL, Galpão G100, Distrito Industrial Tenentes, Município de Extrema - MG 37645-050 | Clique na opção “Atendimento ao cliente”, no menu acima, e veja nossos canais de atendimento |11 5546 3700"
+  - alert [ref=e248]

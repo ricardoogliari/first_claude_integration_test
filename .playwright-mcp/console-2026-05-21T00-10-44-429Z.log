@@ -1,0 +1,10 @@
+[     756ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.adidas.com.br/busca#q=Supernova%20Rise%203&start=0:0
+[    1558ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://c.go-mpulse.net/boomerang/W5KYL-VGT59-BFM62-773LD-CAHF6:9
+[    1851ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.adidas.com.br/api/bridge/sdk/retrieveBag:0
+[    1853ms] [ERROR] 2026-05-21T00:10:46.280Z - ERROR: [undefined]%o {msg: @ecom/bag getCustomer basket call failed, error: ErrorWithStatusCode: Failed to fetch mini bag
+    at UI (https://microfrontends.glass.adidas.com/fo…} @ https://c.go-mpulse.net/boomerang/W5KYL-VGT59-BFM62-773LD-CAHF6:9
+[   14896ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://c.go-mpulse.net/boomerang/W5KYL-VGT59-BFM62-773LD-CAHF6:9
+[   15249ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.adidas.com.br/api/bridge/sdk/retrieveBag:0
+[   15250ms] [ERROR] 2026-05-21T00:10:59.678Z - ERROR: [undefined]%o {msg: @ecom/bag getCustomer basket call failed, error: ErrorWithStatusCode: Failed to fetch mini bag
+    at UI (https://microfrontends.glass.adidas.com/fo…} @ https://c.go-mpulse.net/boomerang/W5KYL-VGT59-BFM62-773LD-CAHF6:9
+[   26020ms] [WARNING] The resource https://www.adidas.com.br/glass/pkgs/reset.css was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. @ https://www.adidas.com.br/search?q=Supernova+Rise+3#q=Supernova%20Rise%203&start=0:0

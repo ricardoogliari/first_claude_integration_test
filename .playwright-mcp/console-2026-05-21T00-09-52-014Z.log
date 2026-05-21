@@ -1,0 +1,42 @@
+[    3334ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ki (https://esm.glass.adidas.com/v1/react-dom@18.3.1:19:4899)
+    at Aa (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:45232)
+    at ja (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:39462)
+    at Gf (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:39393)
+    at qr (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:39252)
+    at Oa (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:34404)
+    at Sl (https://esm.glass.adidas.com/v1/react-dom@18.3.1:14:2397)
+    at MessagePort.hl (https://esm.glass.adidas.com/v1/react-dom@18.3.1:14:2787)
+[    3335ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ki (https://esm.glass.adidas.com/v1/react-dom@18.3.1:19:4899)
+    at Aa (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:45232)
+    at ja (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:39462)
+    at Gf (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:39393)
+    at qr (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:39252)
+    at Oa (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:34404)
+    at Sl (https://esm.glass.adidas.com/v1/react-dom@18.3.1:14:2397)
+    at MessagePort.hl (https://esm.glass.adidas.com/v1/react-dom@18.3.1:14:2787)
+[    3335ms] Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Aa (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:44892)
+    at ja (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:39462)
+    at Gf (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:39393)
+    at qr (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:39252)
+    at Ii (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:35674)
+    at Oa (https://esm.glass.adidas.com/v1/react-dom@18.3.1:21:34630)
+    at Sl (https://esm.glass.adidas.com/v1/react-dom@18.3.1:14:2397)
+    at MessagePort.hl (https://esm.glass.adidas.com/v1/react-dom@18.3.1:14:2787)
+[    3531ms] [INFO] {"level":"INFO","message":"Style List: endpoint = https://www.adidas.com.br/gw/prd/styles/agc/looks","timestamp":"2026-05-21T00:09:55.544Z"} @ https://www.adidas.com.br/static/glass/landing-app/adidas-landing-app/811dabd34eaaf0654071dcdbb8da008e99aa8324/_next/static/chunks/321-82b1aa9e65f4ddea.js:173
+[    3537ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://c.go-mpulse.net/boomerang/W5KYL-VGT59-BFM62-773LD-CAHF6:9
+[    3781ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.adidas.com.br/api/account/loyalty/status?locale=pt_BR:0
+[    3835ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.adidas.com.br/api/account/loyalty/wallet?locale=pt_BR:0
+[    4274ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.adidas.com.br/api/bridge/sdk/retrieveBag:0
+[    4274ms] [ERROR] 2026-05-21T00:09:56.288Z - ERROR: [undefined]%o {msg: @ecom/bag getCustomer basket call failed, error: ErrorWithStatusCode: Failed to fetch mini bag
+    at jG (https://microfrontends.glass.adidas.com/he…} @ https://microfrontends.glass.adidas.com/header-mf/1121767e5eac73d6034f59bf3facf87b239a654c/index.js:11595
+[    5142ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.adidas.com.br/api/account/loyalty/status?locale=pt_BR:0
+[    5207ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.adidas.com.br/api/account/loyalty/wallet?locale=pt_BR:0
+[    7454ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.adidas.com.br/api/account/loyalty/status?locale=pt_BR:0
+[    7564ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.adidas.com.br/api/account/loyalty/wallet?locale=pt_BR:0
+[   11761ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.adidas.com.br/api/account/loyalty/status?locale=pt_BR:0
+[   11925ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.adidas.com.br/api/account/loyalty/wallet?locale=pt_BR:0
+[   12807ms] [LOG] Content is cached for offline use. @ https://www.adidas.com.br/static/glass/landing-app/adidas-landing-app/811dabd34eaaf0654071dcdbb8da008e99aa8324/_next/static/chunks/pages/_app-07b9111f5abf0876.js:5
+[   14926ms] [WARNING] The resource https://www.adidas.com.br/glass/pkgs/reset.css was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. @ https://www.adidas.com.br/:0

@@ -1,0 +1,606 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img [ref=e3]:
+      - generic "adiclub-logo"
+      - generic "alert-error"
+      - generic "alert-info"
+      - generic "alert-success"
+      - generic "alert-warning"
+      - generic "broken-image"
+      - generic "checkmark"
+      - generic "contact-email"
+      - generic "contact-phone"
+      - generic "customization"
+      - generic "forbidden"
+      - generic "locked"
+      - generic "logo"
+      - generic "personalisation-flag"
+      - generic "personalization"
+      - generic "rating-active"
+      - generic "rating-inactive"
+      - generic "size-guide"
+      - generic "tooltip"
+      - generic "usp-checkmark"
+      - generic "usp-delivery-cash"
+      - generic "usp-delivery-delay"
+      - generic "usp-delivery-evening"
+      - generic "usp-delivery-same-day"
+      - generic "usp-delivery-store"
+      - generic "usp-delivery"
+      - generic "usp-exchange"
+      - generic "usp-free-returns"
+      - generic "usp-gift-card"
+      - generic "usp-klarna"
+      - generic "usp-sale"
+      - generic "arrow-back"
+      - generic "arrow-down"
+      - generic "arrow-left-long"
+      - generic "arrow-left"
+      - generic "arrow-right-long"
+      - generic "arrow-right"
+      - generic "arrow-up"
+      - generic "bag-active"
+      - generic "bag-inactive"
+      - generic "calendar-active"
+      - generic "calendar-inactive"
+      - generic "chat"
+      - generic "checkbox-checkmark"
+      - generic "checkmark-full"
+      - generic "clipboard"
+      - generic "close"
+      - generic "cross-small"
+      - generic "download"
+      - generic "dropdown"
+      - generic "edit"
+      - generic "external-link"
+      - generic "fullscreen"
+      - generic "hamburger"
+      - generic "hd-filled"
+      - generic "hd-outline"
+      - generic "hide-active"
+      - generic "hide-inactive"
+      - generic "locate-target"
+      - generic "lock"
+      - generic "minus"
+      - generic "notification-active"
+      - generic "notification-inactive"
+      - generic "pause-outline"
+      - generic "pin-small"
+      - generic "pin"
+      - generic "play-filled"
+      - generic "play-outline"
+      - generic "plus"
+      - generic "profile"
+      - generic "reload"
+      - generic "sd-filled"
+      - generic "sd-outline"
+      - generic "search"
+      - generic "share"
+      - generic "sound-off-filled"
+      - generic "sound-off-outline"
+      - generic "sound-on-filled"
+      - generic "sound-on-outline"
+      - generic "subtitles-cc-filled"
+      - generic "subtitles-cc-outline"
+      - generic "subtitles-filled"
+      - generic "subtitles-outline"
+      - generic "wishlist-active"
+      - generic "wishlist-inactive"
+      - generic "zoom-out"
+      - generic "zoom"
+      - generic "apple"
+      - generic "facebook"
+      - generic "google"
+      - generic "instagram-filled"
+      - generic "instagram"
+      - generic "messenger"
+      - generic "pinterest"
+      - generic "runtastic"
+      - generic "tiktok-default"
+      - generic "tiktok"
+      - generic "twitter"
+      - generic "vk"
+      - generic "whatsapp"
+      - generic "yahoo"
+      - generic "youtube"
+    - generic [ref=e4]:
+      - banner [ref=e7]:
+        - button "Veja outros benefícios, ofertas da adidas e muito mais." [ref=e8] [cursor=pointer]
+        - generic [ref=e10]:
+          - navigation "Informações do cliente." [ref=e11]:
+            - list [ref=e12]:
+              - listitem [ref=e13]:
+                - link "localizador de lojas" [ref=e14] [cursor=pointer]:
+                  - /url: /stores
+              - listitem [ref=e15]:
+                - link "blog" [ref=e16] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e17]:
+                - link "ajuda" [ref=e18] [cursor=pointer]:
+                  - /url: /ajuda
+              - listitem [ref=e19]:
+                - link "histórico de pedidos" [ref=e20] [cursor=pointer]:
+                  - /url: /order-tracker
+              - listitem [ref=e21]:
+                - button "Entre para o adiClub." [ref=e22] [cursor=pointer]: entre para o clube
+          - generic [ref=e23]:
+            - link "página inicial" [ref=e24] [cursor=pointer]:
+              - /url: /
+            - list "Main Navigation" [ref=e26]:
+              - listitem [ref=e27]: CALÇADOS
+              - listitem [ref=e28]: MULHER
+              - listitem [ref=e29]: HOMEM
+              - listitem [ref=e30]: INFANTIL
+              - listitem [ref=e31]: ESPORTES
+              - listitem [ref=e32]: ATÉ 40% OFF️
+            - generic [ref=e33]:
+              - generic [ref=e34]:
+                - textbox "Procurar" [ref=e35]
+                - img [ref=e37] [cursor=pointer]
+              - button "Cadastre-se ou entre no adiClub" [ref=e39] [cursor=pointer]:
+                - img [ref=e40]
+                - generic [ref=e43]: "1"
+              - link "Ir para lista de desejos" [ref=e44] [cursor=pointer]:
+                - /url: /wishlists
+                - img [ref=e45]
+              - link "Ir para carrinho" [ref=e47] [cursor=pointer]:
+                - /url: /cart
+                - img [ref=e48]
+                - generic [ref=e51]: "0"
+      - generic [ref=e52]:
+        - heading "Página não encontrada" [level=1] [ref=e53]
+        - generic [ref=e55]:
+          - img [ref=e56]
+          - textbox "Procurar" [ref=e58]
+        - paragraph [ref=e59]:
+          - text: Ou retrocedeà
+          - link "página inicial" [ref=e61] [cursor=pointer]:
+            - /url: /
+          - text: e recomeça.
+        - generic [ref=e64]:
+          - heading "Mais vendidos" [level=3] [ref=e67]
+          - region "Content carousel" [ref=e68]:
+            - generic [ref=e69]: Use left and right arrow keys to navigate between items.
+            - generic [ref=e70]:
+              - button "Previous" [disabled]:
+                - generic: Previous
+                - img
+            - generic [ref=e71]:
+              - button "Next" [disabled]:
+                - generic: Next
+                - img
+            - list [ref=e72]:
+              - listitem "Carousel item 1" [ref=e73]:
+                - generic [ref=e74]:
+                  - link "Tênis Samba OG Preço R$799,99 Tênis Samba OG Originals" [ref=e75] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/tenis-samba-og/JK3367.html?pr=home_rr&slot=1&rec=ds
+                    - img "Tênis Samba OG" [ref=e78]
+                    - generic [ref=e79]:
+                      - generic [ref=e81]:
+                        - generic [ref=e82]: Preço
+                        - generic [ref=e83]: R$799,99
+                      - heading "Tênis Samba OG" [level=4] [ref=e84]
+                      - paragraph [ref=e85]: Originals
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e88] [cursor=pointer]:
+                    - img [ref=e90]
+                    - generic [ref=e93]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 2" [ref=e94]:
+                - generic [ref=e95]:
+                  - link "Tênis VL Court Base Preço R$349,99 Tênis VL Court Base Sportswear" [ref=e96] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/tenis-vl-court-base/ID3714.html?pr=home_rr&slot=2&rec=ds
+                    - img "Tênis VL Court Base" [ref=e99]
+                    - generic [ref=e100]:
+                      - generic [ref=e102]:
+                        - generic [ref=e103]: Preço
+                        - generic [ref=e104]: R$349,99
+                      - heading "Tênis VL Court Base" [level=4] [ref=e105]
+                      - paragraph [ref=e106]: Sportswear
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e109] [cursor=pointer]:
+                    - img [ref=e111]
+                    - generic [ref=e114]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 3" [ref=e115]:
+                - generic [ref=e116]:
+                  - link "HANDBALL SPEZIAL W Preço R$799,99 HANDBALL SPEZIAL W Originals" [ref=e117] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/handball-spezial-w/KJ2693.html?pr=home_rr&slot=3&rec=ds
+                    - img "HANDBALL SPEZIAL W" [ref=e120]
+                    - generic [ref=e121]:
+                      - generic [ref=e123]:
+                        - generic [ref=e124]: Preço
+                        - generic [ref=e125]: R$799,99
+                      - heading "HANDBALL SPEZIAL W" [level=4] [ref=e126]
+                      - paragraph [ref=e127]: Originals
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e130] [cursor=pointer]:
+                    - img [ref=e132]
+                    - generic [ref=e135]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 4" [ref=e136]:
+                - generic [ref=e137]:
+                  - link "Camisa Originals Brasil COB Preço R$399,99 Camisa Originals Brasil COB Originals" [ref=e138] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/camisa-originals-brasil-cob/KX9168.html?pr=home_rr&slot=4&rec=ds
+                    - img "Camisa Originals Brasil COB" [ref=e141]
+                    - generic [ref=e142]:
+                      - generic [ref=e144]:
+                        - generic [ref=e145]: Preço
+                        - generic [ref=e146]: R$399,99
+                      - heading "Camisa Originals Brasil COB" [level=4] [ref=e147]
+                      - paragraph [ref=e148]: Originals
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e151] [cursor=pointer]:
+                    - img [ref=e153]
+                    - generic [ref=e156]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 5" [ref=e157]:
+                - generic [ref=e158]:
+                  - link "Adizero Evo SL Woven Rio Preço R$1.099,99 Adizero Evo SL Woven Rio Performance" [ref=e159] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/adizero-evo-sl-woven-rio/KK0614.html?pr=home_rr&slot=5&rec=ds
+                    - img "Adizero Evo SL Woven Rio" [ref=e162]
+                    - generic [ref=e163]:
+                      - generic [ref=e165]:
+                        - generic [ref=e166]: Preço
+                        - generic [ref=e167]: R$1.099,99
+                      - heading "Adizero Evo SL Woven Rio" [level=4] [ref=e168]
+                      - paragraph [ref=e169]: Performance
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e172] [cursor=pointer]:
+                    - img [ref=e174]
+                    - generic [ref=e177]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 6" [ref=e178]:
+                - generic [ref=e179]:
+                  - link "ADIZERO DRIVE RC RIO Preço R$899,99 ADIZERO DRIVE RC RIO Performance" [ref=e180] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/adizero-drive-rc-rio/KH5907.html?pr=home_rr&slot=6&rec=ds
+                    - img "ADIZERO DRIVE RC RIO" [ref=e183]
+                    - generic [ref=e184]:
+                      - generic [ref=e186]:
+                        - generic [ref=e187]: Preço
+                        - generic [ref=e188]: R$899,99
+                      - heading "ADIZERO DRIVE RC RIO" [level=4] [ref=e189]
+                      - paragraph [ref=e190]: Performance
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e193] [cursor=pointer]:
+                    - img [ref=e195]
+                    - generic [ref=e198]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 7" [ref=e199]:
+                - generic [ref=e200]:
+                  - link "Tênis Slip-On Superstar Preço R$399,99 Tênis Slip-On Superstar Originals" [ref=e201] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/tenis-slip-on-superstar/EW2053.html?pr=home_rr&slot=7&rec=ds
+                    - img "Tênis Slip-On Superstar" [ref=e204]
+                    - generic [ref=e205]:
+                      - generic [ref=e207]:
+                        - generic [ref=e208]: Preço
+                        - generic [ref=e209]: R$399,99
+                      - heading "Tênis Slip-On Superstar" [level=4] [ref=e210]
+                      - paragraph [ref=e211]: Originals
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e214] [cursor=pointer]:
+                    - img [ref=e216]
+                    - generic [ref=e219]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 8" [ref=e220]:
+                - generic [ref=e221]:
+                  - link "Meia Maratona Do Rio Preço R$79,99 Meia Maratona Do Rio Performance" [ref=e222] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/meia-maratona-do-rio/KS4936.html?pr=home_rr&slot=8&rec=ds
+                    - img "Meia Maratona Do Rio" [ref=e225]
+                    - generic [ref=e226]:
+                      - generic [ref=e228]:
+                        - generic [ref=e229]: Preço
+                        - generic [ref=e230]: R$79,99
+                      - heading "Meia Maratona Do Rio" [level=4] [ref=e231]
+                      - paragraph [ref=e232]: Performance
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e235] [cursor=pointer]:
+                    - img [ref=e237]
+                    - generic [ref=e240]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 9" [ref=e241]:
+                - generic [ref=e242]:
+                  - link "Adizero Evo SL Woven Rio Preço R$1.099,99 Adizero Evo SL Woven Rio Performance" [ref=e243] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/adizero-evo-sl-woven-rio/KK0617.html?pr=home_rr&slot=9&rec=ds
+                    - img "Adizero Evo SL Woven Rio" [ref=e246]
+                    - generic [ref=e247]:
+                      - generic [ref=e249]:
+                        - generic [ref=e250]: Preço
+                        - generic [ref=e251]: R$1.099,99
+                      - heading "Adizero Evo SL Woven Rio" [level=4] [ref=e252]
+                      - paragraph [ref=e253]: Performance
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e256] [cursor=pointer]:
+                    - img [ref=e258]
+                    - generic [ref=e261]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 10" [ref=e262]:
+                - generic [ref=e263]:
+                  - link "Shorts 3 Listras Com Bolso Preço R$179,99 Shorts 3 Listras Com Bolso Performance" [ref=e264] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/shorts-3-listras-com-bolso/JW1600.html?pr=home_rr&slot=10&rec=ds
+                    - img "Shorts 3 Listras Com Bolso" [ref=e267]
+                    - generic [ref=e268]:
+                      - generic [ref=e270]:
+                        - generic [ref=e271]: Preço
+                        - generic [ref=e272]: R$179,99
+                      - heading "Shorts 3 Listras Com Bolso" [level=4] [ref=e273]
+                      - paragraph [ref=e274]: Performance
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e277] [cursor=pointer]:
+                    - img [ref=e279]
+                    - generic [ref=e282]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 11" [ref=e283]:
+                - generic [ref=e284]:
+                  - link "Tênis Samba OG Preço R$799,99 Tênis Samba OG Originals" [ref=e285] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/tenis-samba-og/JK4976.html?pr=home_rr&slot=11&rec=ds
+                    - img "Tênis Samba OG" [ref=e288]
+                    - generic [ref=e289]:
+                      - generic [ref=e291]:
+                        - generic [ref=e292]: Preço
+                        - generic [ref=e293]: R$799,99
+                      - heading "Tênis Samba OG" [level=4] [ref=e294]
+                      - paragraph [ref=e295]: Originals
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e298] [cursor=pointer]:
+                    - img [ref=e300]
+                    - generic [ref=e303]: Adicionar à Lista de Desejos
+              - listitem "Carousel item 12" [ref=e304]:
+                - generic [ref=e305]:
+                  - link "CAMISETA MARATONA DO RIO Preço R$299,99 CAMISETA MARATONA DO RIO Performance" [ref=e306] [cursor=pointer]:
+                    - /url: https://www.adidas.com.br/camiseta-maratona-do-rio/KW1862.html?pr=home_rr&slot=12&rec=ds
+                    - img "CAMISETA MARATONA DO RIO" [ref=e309]
+                    - generic [ref=e310]:
+                      - generic [ref=e312]:
+                        - generic [ref=e313]: Preço
+                        - generic [ref=e314]: R$299,99
+                      - heading "CAMISETA MARATONA DO RIO" [level=4] [ref=e315]
+                      - paragraph [ref=e316]: Performance
+                      - generic:
+                        - paragraph
+                  - button "Adicionar à Lista de Desejos" [ref=e319] [cursor=pointer]:
+                    - img [ref=e321]
+                    - generic [ref=e324]: Adicionar à Lista de Desejos
+            - generic [ref=e325]: Showing items 1 to 5 of 12
+      - contentinfo [ref=e329]:
+        - generic [ref=e330]:
+          - heading "ENTRE PARA O ADICLUB E GANHE 500 PONTOS RESGATÁVEIS" [level=2] [ref=e331]
+          - button "CADASTRE-SE GRATUITAMENTE" [ref=e333] [cursor=pointer]:
+            - generic [ref=e334]: CADASTRE-SE GRATUITAMENTE
+            - img [ref=e335]
+        - list [ref=e338]:
+          - listitem [ref=e339]:
+            - heading "PRODUTOS" [level=5] [ref=e340]
+            - list [ref=e341]:
+              - listitem [ref=e342]:
+                - link "Mulher" [ref=e343] [cursor=pointer]:
+                  - /url: /mulher
+              - listitem [ref=e344]:
+                - link "Homem" [ref=e345] [cursor=pointer]:
+                  - /url: /homem
+              - listitem [ref=e346]:
+                - link "Calçados" [ref=e347] [cursor=pointer]:
+                  - /url: /calcados
+              - listitem [ref=e348]:
+                - link "Tênis" [ref=e349] [cursor=pointer]:
+                  - /url: /tenis
+              - listitem [ref=e350]:
+                - link "Roupas" [ref=e351] [cursor=pointer]:
+                  - /url: /roupas
+              - listitem [ref=e352]:
+                - link "Acessórios" [ref=e353] [cursor=pointer]:
+                  - /url: /acessorios
+              - listitem [ref=e354]:
+                - link "Chuteiras" [ref=e355] [cursor=pointer]:
+                  - /url: /chuteiras
+              - listitem [ref=e356]:
+                - link "Quebra Vento" [ref=e357] [cursor=pointer]:
+                  - /url: /blusao_quebra_vento-jaquetas
+              - listitem [ref=e358]
+              - listitem [ref=e360]:
+                - link "Novidades" [ref=e361] [cursor=pointer]:
+                  - /url: /novidades
+              - listitem [ref=e362]:
+                - link "Maratona do Rio" [ref=e363] [cursor=pointer]:
+                  - /url: /maratona_do_rio
+              - listitem [ref=e364]:
+                - link "OUTLET" [ref=e365] [cursor=pointer]:
+                  - /url: /outlet
+              - listitem [ref=e366]:
+                - link "ATÉ 70% OFF" [ref=e367] [cursor=pointer]:
+                  - /url: /black_friday
+              - listitem [ref=e368]:
+                - link "Cyber Monday" [ref=e369] [cursor=pointer]:
+                  - /url: /cyber_monday
+              - listitem [ref=e370]
+              - listitem [ref=e372]:
+                - link "adiClub" [ref=e373] [cursor=pointer]:
+                  - /url: /adiclub
+              - listitem [ref=e374]:
+                - link "adidas app" [ref=e375] [cursor=pointer]:
+                  - /url: /mobileapps
+              - listitem [ref=e376]:
+                - link "adidas Runners" [ref=e377] [cursor=pointer]:
+                  - /url: /adidasrunners/
+          - listitem [ref=e378]:
+            - heading "ESPORTES" [level=5] [ref=e379]
+            - list [ref=e380]:
+              - listitem [ref=e381]:
+                - link "Futebol" [ref=e382] [cursor=pointer]:
+                  - /url: /futebol?grid=true
+              - listitem [ref=e383]:
+                - link "Internacional" [ref=e384] [cursor=pointer]:
+                  - /url: /internacional
+              - listitem [ref=e385]:
+                - link "Flamengo" [ref=e386] [cursor=pointer]:
+                  - /url: /flamengo
+              - listitem [ref=e387]:
+                - link "Atlético Mineiro" [ref=e388] [cursor=pointer]:
+                  - /url: /atletico_mineiro
+              - listitem [ref=e389]:
+                - link "Federação" [ref=e390] [cursor=pointer]:
+                  - /url: /selecoes
+              - listitem [ref=e391]:
+                - link "Cruzeiro" [ref=e392] [cursor=pointer]:
+                  - /url: /cruzeiro
+              - listitem [ref=e393]:
+                - link "Corrida" [ref=e394] [cursor=pointer]:
+                  - /url: /running?grid=true
+              - listitem [ref=e395]:
+                - link "Basquete" [ref=e396] [cursor=pointer]:
+                  - /url: /basquete
+              - listitem [ref=e397]:
+                - link "Training" [ref=e398] [cursor=pointer]:
+                  - /url: /training?grid=true
+            - heading "Coleções" [level=5] [ref=e399]
+            - list [ref=e400]:
+              - listitem [ref=e401]:
+                - link "Confirmed" [ref=e402] [cursor=pointer]:
+                  - /url: /confirmed
+              - listitem [ref=e403]:
+                - link "Ultraboost" [ref=e404] [cursor=pointer]:
+                  - /url: /ultraboost
+              - listitem [ref=e405]:
+                - link "Originals" [ref=e406] [cursor=pointer]:
+                  - /url: /originals?grid=true
+              - listitem [ref=e407]:
+                - link "Slip On" [ref=e408] [cursor=pointer]:
+                  - /url: /slip_on
+              - listitem [ref=e409]:
+                - link "Stan Smith" [ref=e410] [cursor=pointer]:
+                  - /url: /stan_smith
+              - listitem [ref=e411]:
+                - link "adicolor" [ref=e412] [cursor=pointer]:
+                  - /url: /adicolor
+              - listitem [ref=e413]:
+                - link "Superstar" [ref=e414] [cursor=pointer]:
+                  - /url: /superstar
+              - listitem [ref=e415]:
+                - link "adidas x Farm" [ref=e416] [cursor=pointer]:
+                  - /url: /farm
+          - listitem [ref=e417]:
+            - heading "SUPORTE" [level=5] [ref=e418]
+            - list [ref=e419]:
+              - listitem [ref=e420]:
+                - link "Podemos Ajudar?" [ref=e421] [cursor=pointer]:
+                  - /url: /ajuda
+              - listitem [ref=e422]:
+                - link "Atendimento ao Cliente" [ref=e423] [cursor=pointer]:
+                  - /url: /ajuda/atendimento-ao-cliente
+              - listitem [ref=e424]:
+                - link "Dúvidas Frequentes" [ref=e425] [cursor=pointer]:
+                  - /url: /ajuda
+              - listitem [ref=e426]:
+                - link "Como Comprar" [ref=e427] [cursor=pointer]:
+                  - /url: /ajuda?hcid=ORDERING
+              - listitem [ref=e428]:
+                - link "Entregas e Frete" [ref=e429] [cursor=pointer]:
+                  - /url: /ajuda?hcid=DELIVERY
+              - listitem [ref=e430]:
+                - link "Opções de Pagamento" [ref=e431] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e432]:
+                - link "Troca e Devolução" [ref=e433] [cursor=pointer]:
+                  - /url: /ajuda?hcid=RETURNS_AND_REFUNDS
+              - listitem [ref=e434]:
+                - link "O Que é o adiClub" [ref=e435] [cursor=pointer]:
+                  - /url: /ajuda/adidasclub/o-que-e-o-adiclub
+              - listitem [ref=e436]:
+                - link "Mapa do Site" [ref=e437] [cursor=pointer]:
+                  - /url: /glass/sitemaps/adidas/BR/pt/html-sitemap/index.html
+          - listitem [ref=e438]:
+            - heading "INFORMAÇÃO CORPORATIVA" [level=5] [ref=e439]
+            - list [ref=e440]:
+              - listitem [ref=e441]:
+                - link "Sobre Nós" [ref=e442] [cursor=pointer]:
+                  - /url: /ajuda/informacao-da-empresa/sobre-adidas
+              - listitem [ref=e443]:
+                - link "Imprensa" [ref=e444] [cursor=pointer]:
+                  - /url: https://news.adidas.com/
+            - heading "LOJAS" [level=5] [ref=e445]
+            - list [ref=e446]:
+              - listitem [ref=e447]:
+                - link "Localizador de Loja" [ref=e448] [cursor=pointer]:
+                  - /url: /stores
+            - heading "Nosso Mundo" [level=5] [ref=e449]
+            - list [ref=e450]:
+              - listitem [ref=e451]:
+                - link "Impacto" [ref=e452] [cursor=pointer]:
+                  - /url: /go/campaign/impact
+              - listitem [ref=e453]:
+                - link "Pessoas" [ref=e454] [cursor=pointer]:
+                  - /url: /go/campaign/impact/people
+              - listitem [ref=e455]:
+                - link "Planeta" [ref=e456] [cursor=pointer]:
+                  - /url: /go/campaign/impact/planet
+          - listitem [ref=e457]:
+            - heading "SIGA-NOS" [level=5] [ref=e458]
+            - list [ref=e459]:
+              - listitem [ref=e460]:
+                - link "Facebook - adidas" [ref=e461] [cursor=pointer]:
+                  - /url: https://www.facebook.com/adidas
+                  - img [ref=e462]
+              - listitem [ref=e464]:
+                - link "Instagram - adidas" [ref=e465] [cursor=pointer]:
+                  - /url: https://www.instagram.com/adidasbrasil/
+                  - img [ref=e466]
+              - listitem [ref=e468]:
+                - link "X - adidas" [ref=e469] [cursor=pointer]:
+                  - /url: https://x.com/adidas
+                  - img [ref=e470]
+              - listitem [ref=e472]:
+                - link "TikTok - adidas" [ref=e473] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@adidas?lang=en
+                  - img [ref=e474]
+              - listitem [ref=e476]:
+                - link "Youtube - adidas" [ref=e477] [cursor=pointer]:
+                  - /url: https://www.youtube.com/c/adidas
+                  - img [ref=e478]
+              - listitem [ref=e481]
+              - listitem [ref=e483]:
+                - link [ref=e484] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e485]:
+                - link [ref=e486] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e487]:
+                - link [ref=e488] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e489]:
+                - link [ref=e490] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e491]:
+                - link [ref=e492] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+              - listitem [ref=e493]:
+                - link [ref=e494] [cursor=pointer]:
+                  - /url: /ajuda/pagamentos/saiba-quais-meios-de-pagamento-sao-aceitos-e-todas-as-condicoes
+        - separator [ref=e495]
+        - list [ref=e496]:
+          - listitem [ref=e497]:
+            - button "Configuração de cookies" [ref=e498] [cursor=pointer]:
+              - generic [ref=e499]: Configuração de cookies
+          - listitem [ref=e500]:
+            - button "Requisições de dados pessoais" [ref=e501] [cursor=pointer]:
+              - generic [ref=e502]: Requisições de dados pessoais
+          - listitem [ref=e503]:
+            - link "Termos e Condições de Navegação" [ref=e504] [cursor=pointer]:
+              - /url: /ajuda/privacidade-e-termos/termos-condicoes-de-navegacao
+          - listitem [ref=e505]:
+            - link "Dúvidas Frequentes" [ref=e506] [cursor=pointer]:
+              - /url: /ajuda?hcid=TERMS_AND_CONDITIONS
+          - listitem [ref=e507]:
+            - link "Selecione o Pais" [ref=e508] [cursor=pointer]:
+              - /url: /go/campaign/location-selector
+          - listitem [ref=e509]:
+            - link "Politica de Privacidade" [ref=e510] [cursor=pointer]:
+              - /url: /ajuda/privacidade-e-termos/politica-de-privacidade
+          - listitem [ref=e511]:
+            - link "Termos e Condições adiClub" [ref=e512] [cursor=pointer]:
+              - /url: /ajuda/adidasclub/termos-e-condicoes-adiclub
+          - listitem [ref=e513]:
+            - 'link "Termos #YESadidas" [ref=e514] [cursor=pointer]':
+              - /url: /ajuda/privacidade-e-termos/terms_and_conditions_yes_adidas
+        - 'generic "adidas do Brasil LTDA - CNPJ/MF nº 42.274.696/0096-55 - Inscrição Estadual 010.361.550.901 Endereço: Estrada Municipal Luiz Lopes Neto, nº 756, Campus DHL, Galpão G100, Distrito Industrial Tenentes, Município de Extrema - MG 37645-050 | Clique na opção “Atendimento ao cliente”, no menu acima, e veja nossos canais de atendimento |11 5546 3700" [ref=e516]'
+  - alert [ref=e517]

@@ -1,0 +1,9 @@
+[     764ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.adidas.com.br/busca?q=T%C3%AAnis+Corrida+Supernova+Rise+3:0
+[    1335ms] [ERROR] Permissions policy violation: unload is not allowed in this document. @ https://c.go-mpulse.net/boomerang/W5KYL-VGT59-BFM62-773LD-CAHF6:9
+[    1832ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.adidas.com.br/api/bridge/sdk/retrieveBag:0
+[    1832ms] [ERROR] 2026-05-21T00:10:16.376Z - ERROR: [undefined]%o {msg: @ecom/bag getCustomer basket call failed, error: ErrorWithStatusCode: Failed to fetch mini bag
+    at UI (https://microfrontends.glass.adidas.com/fo…} @ https://c.go-mpulse.net/boomerang/W5KYL-VGT59-BFM62-773LD-CAHF6:9
+[   11531ms] [WARNING] The resource https://www.adidas.com.br/glass/pkgs/reset.css was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. @ https://www.adidas.com.br/busca?q=T%C3%AAnis+Corrida+Supernova+Rise+3:0
+[   12927ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.adidas.com.br/gw/account/profile/completion?locale=pt_BR:0
+[   14391ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.adidas.com.br/gw/account/profile/completion?locale=pt_BR:0
+[   16812ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.adidas.com.br/gw/account/profile/completion?locale=pt_BR:0
